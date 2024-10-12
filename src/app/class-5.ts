@@ -1,7 +1,7 @@
 // import { TUser } from "./types";
 
-import { IUser } from "./interfaces";
-import { TFriends } from "./types";
+import { IUser } from "../interfaces/interfaces";
+import { TFriends } from "../types/types";
 
 // const name = "Rohan";
 
