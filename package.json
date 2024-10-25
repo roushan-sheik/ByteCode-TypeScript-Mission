@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc",
     "prod": "nodemon dist/app/class-six.js",
-    "dev": "ts-node-dev --respawn --transpile-only ./src/app/class-six.ts"
+    "dev": "ts-node-dev --respawn --transpile-only ./src/app/class-eight.ts"
   },
   "keywords": [],
   "author": "",
