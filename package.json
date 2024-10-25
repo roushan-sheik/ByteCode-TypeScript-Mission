@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "prod": "nodemon dist/class-5.js",
-    "dev": "ts-node-dev --respawn --transpile-only ./src/class-5.ts"
+    "prod": "nodemon dist/app/class-six.js",
+    "dev": "ts-node-dev --respawn --transpile-only ./src/app/class-eight.ts"
   },
   "keywords": [],
   "author": "",

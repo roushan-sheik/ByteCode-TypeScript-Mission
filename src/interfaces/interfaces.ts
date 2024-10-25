@@ -11,3 +11,12 @@ export interface IUser {
   };
   age: number;
 }
+
+export interface INewUser {
+  name: string;
+  age: number;
+  address: {
+    permanentAdd?: string;
+    presentAdd: string;
+  };
+}
