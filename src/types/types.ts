@@ -1,3 +1,4 @@
+// Type for user
 export type TUser = {
   name: string;
   email: string;
