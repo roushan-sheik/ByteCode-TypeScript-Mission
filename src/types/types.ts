@@ -1,4 +1,4 @@
-// Typeforr
+// Typeforr for
 export type TUser = {
   name: string;
   email: string;
