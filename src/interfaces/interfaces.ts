@@ -11,7 +11,7 @@ export interface IUser {
   };
   age: number;
 }
-
+// new user
 export interface INewUser {
   name: string;
   age: number;
